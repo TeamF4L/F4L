@@ -9,6 +9,8 @@
 :root{
     --white : #fff;
     --black : #000;
+    --logo-color: #7fcfff;
+    --content-color:#e3e3e3;
 }
 
 body{
